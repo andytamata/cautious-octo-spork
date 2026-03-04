@@ -1,0 +1,26 @@
+{
+  "name": "cautious-octo-spork",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andytamata/cautious-octo-spork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andytamata/cautious-octo-spork/issues"
+  },
+  "homepage": "https://github.com/andytamata/cautious-octo-spork#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "jest": {
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|tests|spec))\\.[jt]sx?$"
+  }
+}
